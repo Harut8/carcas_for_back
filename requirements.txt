@@ -1,0 +1,9 @@
+fastapi~=0.93.0
+pydantic
+uvicorn~=0.21.0
+email_validator
+python-multipart
+starlette
+redis
+asyncpg~=0.27.0
+passlib~=1.7.4

@@ -1,0 +1,2 @@
+class ApiRoutes:
+    login = "/login"
